@@ -46,7 +46,7 @@ Use this guide when the user wants to customize the imported Google Ads skills. 
 
 ## Change Authority
 
-The sidekick may auto-apply:
+The Type AI teammate may auto-apply:
 
 - budget edits:
 - bid edits:
@@ -57,7 +57,7 @@ The sidekick may auto-apply:
 - final URL or tracking changes:
 - CRM field edits:
 
-The sidekick must ask first:
+The Type AI teammate must ask first:
 
 - budget edits:
 - bidding strategy changes:
@@ -76,4 +76,3 @@ The sidekick must ask first:
 - Terms that should be redacted in broad channels:
 - Whether raw search terms may be shown:
 - Whether customer or deal names may be shown:
-

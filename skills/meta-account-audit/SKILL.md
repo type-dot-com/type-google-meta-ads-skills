@@ -5,7 +5,7 @@ description: Run a read-only Meta Ads account audit across tracking, campaign st
 
 # Meta Account Audit
 
-Use this skill for a read-only Meta Ads health check. The goal is to identify the highest-leverage fixes before the sidekick recommends ongoing optimizations.
+Use this skill for a read-only Meta Ads health check. The goal is to identify the highest-leverage fixes before the Type AI teammate recommends ongoing optimizations.
 
 ## Start Here
 
@@ -90,4 +90,3 @@ Next: <specialist skill or approval request>.
 ```
 
 Keep the report focused. Cite specific campaigns, ad sets, ads, events, and dollar amounts when connected data provides them.
-

@@ -1,15 +1,15 @@
 ---
 name: Google Ads Command Center
-description: Orchestrate a Type sidekick's Google Ads workflow across campaign monitoring, search terms, keywords, ad copy, geo/device/schedule segments, auction insights, monthly reporting, and CRM pipeline analysis. Use for broad Ads sweeps, skill customization, routing ambiguous paid-search requests, setting change-control policy, and keeping analysis grounded in connected tools.
+description: Orchestrate a Type AI teammate's Google Ads workflow across campaign monitoring, search terms, keywords, ad copy, geo/device/schedule segments, auction insights, monthly reporting, and CRM pipeline analysis. Use for broad Ads sweeps, skill customization, routing ambiguous paid-search requests, setting change-control policy, and keeping analysis grounded in connected tools.
 ---
 
 # Google Ads Command Center
 
-Use this skill as the operating layer for a Google Ads sidekick in Type. It decides which connected sources to use, which specialist skill owns the work, what can be changed, and what should only be recommended.
+Use this skill as the operating layer for a Google Ads Type AI teammate. It decides which connected sources to use, which specialist skill owns the work, what can be changed, and what should only be recommended.
 
 ## Customization
 
-These skills are meant to be edited after import. If the user asks to customize the Ads sidekick, update the imported skill instructions with their account-specific preferences instead of storing private details in this public repository.
+These skills are meant to be edited after import. If the user asks to customize the Ads AI teammate, update the imported skill instructions with their account-specific preferences instead of storing private details in this public repository.
 
 Capture only details needed to run safely:
 
@@ -21,7 +21,7 @@ Capture only details needed to run safely:
 - campaigns, products, geographies, brands, and competitors to prioritize
 - CRM source, pipeline stages, and closed revenue rules
 - who receives daily alerts, weekly recaps, and monthly executive summaries
-- which changes the sidekick may apply without approval
+- which changes the Type AI teammate may apply without approval
 - which changes must always be drafted for approval
 
 Do not put any user's private account data, customer data, credentials, or API tokens back into this public repository. Keep customization inside the imported Type skills.
@@ -89,4 +89,3 @@ Account: <account>. Window: <date range>. Found: <top finding>. Recommend: <spec
 ```
 
 If a scheduled sweep finds no meaningful issues, stay silent unless the runner requires a response.
-

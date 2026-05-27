@@ -1,6 +1,6 @@
 # Type Google and Meta Ads Skills
 
-Open-source skill collection for building a Type sidekick that can monitor, analyze, and recommend improvements for Google Ads and Meta Ads programs.
+Open-source skill collection for connecting Google Ads and Meta Ads workflows to a Type AI teammate.
 
 This repository is designed for Type's GitHub skill import flow. Paste the repository URL into the Type channel skill importer and select the skills you want to add.
 
@@ -32,17 +32,17 @@ This repository is designed for Type's GitHub skill import flow. Paste the repos
 
 ## Importing Into Type
 
-1. Open the target sidekick channel in Type.
+1. Open the target Type AI teammate channel.
 2. Go to channel settings, then skills.
 3. Choose import from GitHub.
 4. Paste this repository URL.
 5. Import the skills you want.
 
-The skills are written for Google Ads, formerly Google AdWords, and Meta Ads, formerly Facebook Ads. They avoid assuming a specific tool surface beyond what the user's Type channel has connected. They tell the sidekick to discover available Ads, analytics, CRM, ecommerce, spreadsheet, document, and notification tools before acting.
+The skills are written for Google Ads, formerly Google AdWords, and Meta Ads, formerly Facebook Ads. They avoid assuming a specific tool surface beyond what the user's Type channel has connected. They tell the Type AI teammate to discover available Ads, analytics, CRM, ecommerce, spreadsheet, document, and notification tools before acting.
 
 ## Setup
 
-After importing, users should edit the imported skills or ask the sidekick to customize them:
+After importing, users should edit the imported skills or ask the Type AI teammate to customize them:
 
 ```text
 Customize these Google and Meta Ads skills for our accounts, conversion goals, reporting cadence, risk tolerance, revenue sources, CRM, and approval rules.
@@ -57,7 +57,7 @@ Useful details to add directly to the imported skill instructions:
 - account goal: CPL, CPA, ROAS, MER, pipeline, revenue, or share of voice
 - budget guardrails and pacing rules
 - campaigns, products, regions, audiences, creative concepts, and brands to prioritize
-- whether the sidekick may apply low-risk changes or only draft recommendations
+- whether the Type AI teammate may apply low-risk changes or only draft recommendations
 - negative keyword, bid, budget, pause, audience, creative, and asset approval rules
 - ecommerce, analytics, and CRM sources such as Shopify, GA4, HubSpot, or Salesforce
 - default update channel and executive summary recipients

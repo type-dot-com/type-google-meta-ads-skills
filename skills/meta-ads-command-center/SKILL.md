@@ -1,6 +1,6 @@
 ---
 name: Meta Ads Command Center
-description: Orchestrate a Type sidekick's Meta Ads workflow across account audit, performance monitoring, creative fatigue, audience and delivery analysis, budget scaling, and revenue attribution. Use for broad Meta Ads sweeps, Facebook or Instagram Ads questions, skill customization, routing ambiguous paid-social requests, and setting change-control policy.
+description: Orchestrate a Type AI teammate's Meta Ads workflow across account audit, performance monitoring, creative fatigue, audience and delivery analysis, budget scaling, and revenue attribution. Use for broad Meta Ads sweeps, Facebook or Instagram Ads questions, skill customization, routing ambiguous paid-social requests, and setting change-control policy.
 ---
 
 # Meta Ads Command Center
@@ -9,7 +9,7 @@ Use this skill as the operating layer for Meta Ads work in Type. It decides whic
 
 ## Customization
 
-These skills are meant to be edited after import. If the user asks to customize the Meta Ads sidekick, update the imported skill instructions with account-specific preferences instead of storing private details in this public repository.
+These skills are meant to be edited after import. If the user asks to customize the Meta Ads AI teammate, update the imported skill instructions with account-specific preferences instead of storing private details in this public repository.
 
 Capture only details needed to run safely:
 
@@ -23,7 +23,7 @@ Capture only details needed to run safely:
 - campaign types, products, audiences, geographies, and creative concepts to prioritize
 - sensitive policy areas such as credit, employment, housing, social issues, health, finance, alcohol, dating, or weight loss
 - revenue source such as Shopify, GA4, HubSpot, Salesforce, warehouse, or BI dashboard
-- which changes the sidekick may apply without approval
+- which changes the Type AI teammate may apply without approval
 - which changes must always be drafted for approval
 
 Do not put any user's private account data, customer data, credentials, API tokens, Pixel IDs, customer lists, or revenue data back into this public repository. Keep customization inside the imported Type skills.
@@ -89,4 +89,3 @@ Meta Ads: <account>. Window: <date range>. Found: <top finding>. Recommend: <spe
 ```
 
 If a scheduled sweep finds no meaningful issues, stay silent unless the runner requires a response.
-

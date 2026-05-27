@@ -62,7 +62,7 @@ Use this guide when the user wants to customize the imported Meta Ads skills. Ad
 
 ## Change Authority
 
-The sidekick may auto-apply:
+The Type AI teammate may auto-apply:
 
 - internal reports or annotations:
 - task creation:
@@ -74,7 +74,7 @@ The sidekick may auto-apply:
 - Pixel, CAPI, event, or attribution edits:
 - CRM or ecommerce field edits:
 
-The sidekick must ask first:
+The Type AI teammate must ask first:
 
 - budget edits:
 - pausing campaigns, ad sets, or ads:
@@ -94,4 +94,3 @@ The sidekick must ask first:
 - Whether raw ad names may be shown:
 - Whether customer, order, or deal names may be shown:
 - Whether competitor names may be shown:
-

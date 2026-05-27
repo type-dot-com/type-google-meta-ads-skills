@@ -1,6 +1,6 @@
 # Contributing
 
-Keep skills practical, provider-aware, and safe for imported Type sidekicks.
+Keep skills practical, provider-aware, and safe for imported Type AI teammates.
 
 ## Guidelines
 
