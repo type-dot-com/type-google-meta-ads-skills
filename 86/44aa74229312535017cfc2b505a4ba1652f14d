@@ -1,0 +1,31 @@
+skills/meta-account-audit/SKILL.md
+  s_bd645707097a71::t_9623ef64a6ef2f 8
+skills/google-ads-command-center/references/customization-guide.md
+  s_bd645707097a71::t_9623ef64a6ef2f 49,60
+skills/meta-ads-command-center/SKILL.md
+  s_bd645707097a71::t_9623ef64a6ef2f 3,12,26
+skills/meta-ads-command-center/references/customization-guide.md
+  s_bd645707097a71::t_9623ef64a6ef2f 65,77
+CONTRIBUTING.md
+  s_bd645707097a71::t_9623ef64a6ef2f 3
+skills/google-ads-command-center/SKILL.md
+  s_bd645707097a71::t_9623ef64a6ef2f 3,8,12,24
+README.md
+  s_bd645707097a71::t_9623ef64a6ef2f 3,35,41,45,60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "8644aa74229312535017cfc2b505a4ba1652f14d",
+  "prompts": {},
+  "sessions": {
+    "s_bd645707097a71": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6a8c-14b2-79b2-bb21-d3c483046b58",
+        "model": "gpt-5.5"
+      },
+      "human_author": "fletchrichman <frichman3@gmail.com>"
+    }
+  }
+}
