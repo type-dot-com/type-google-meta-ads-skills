@@ -1,0 +1,44 @@
+skills/meta-account-audit/SKILL.md
+  s_bd645707097a71::t_2210bc765d45ee 1-93
+skills/meta-ads-command-center/references/provider-tool-patterns.md
+  s_bd645707097a71::t_2210bc765d45ee 1-68
+skills/meta-ads-command-center/SKILL.md
+  s_bd645707097a71::t_2210bc765d45ee 1-92
+skills/meta-ads-command-center/references/customization-guide.md
+  s_bd645707097a71::t_2210bc765d45ee 1-97
+skills/meta-ads-command-center/references/meta-math.md
+  s_bd645707097a71::t_2210bc765d45ee 1-73
+CONTRIBUTING.md
+  s_bd645707097a71::t_2210bc765d45ee 12,21
+skills/meta-ads-command-center/references/change-control-policy.md
+  s_bd645707097a71::t_2210bc765d45ee 1-59
+skills/meta-audience-delivery/SKILL.md
+  s_bd645707097a71::t_2210bc765d45ee 1-78
+skills/meta-performance-monitor/SKILL.md
+  s_bd645707097a71::t_2210bc765d45ee 1-78
+skills/meta-creative-fatigue/SKILL.md
+  s_bd645707097a71::t_2210bc765d45ee 1-76
+skills/meta-budget-scaling/SKILL.md
+  s_bd645707097a71::t_2210bc765d45ee 1-78
+skills/meta-revenue-attribution/SKILL.md
+  s_bd645707097a71::t_2210bc765d45ee 1-73
+README.md
+  s_bd645707097a71::t_2210bc765d45ee 1,3,7,21-32,41,48,54,57,59,61-62,67
+  s_bd645707097a71::t_9f81f143ce9d81 71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "361ca56ed44f4d8851a20997e96cbacca766a9e1",
+  "prompts": {},
+  "sessions": {
+    "s_bd645707097a71": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6a8c-14b2-79b2-bb21-d3c483046b58",
+        "model": "gpt-5.5"
+      },
+      "human_author": "fletchrichman <frichman3@gmail.com>"
+    }
+  }
+}
